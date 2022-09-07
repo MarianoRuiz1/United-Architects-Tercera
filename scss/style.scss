@@ -1,0 +1,43 @@
+/** Utilities **/
+@import 'utilities/variables';
+@import 'utilities/mixins';
+@import 'utilities/maps';
+@import 'utilities/classes';
+@import 'utilities/breakpoints';
+@import 'utilities/animations';
+
+/** Base **/
+@import 'base/reset';
+@import 'base/base';
+
+/** Components **/
+@import 'components/header';
+@import 'components/footer';
+
+/** Pages **/
+@import 'pages/aboutUsPage';
+@import 'pages/contactPage';
+@import 'pages/premiosPage';
+@import 'pages/proyectosPage';
+
+/** Sections **/
+@import 'sections/premiosSection';
+@import 'sections/aboutUsSection';
+@import 'sections/separatorSection';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

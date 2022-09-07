@@ -1,0 +1,5 @@
+Documento del SEO
+
+1) Se agregaron etiquetas meta en el archivo html.
+2) Se agregó además Open Graph.
+3) Se completaron los atributos 'alt' de las etiquetas de imagen.
